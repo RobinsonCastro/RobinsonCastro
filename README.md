@@ -9,12 +9,12 @@
 <!--
 **RobinsonCastro/RobinsonCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on web and mobile development
-- 🌱 My current stack: JS (react, react native, node), PHP (laravel).
+I’m currently working on web and mobile development. </br>
+My current stack: JS (react, react native, node), PHP (laravel). </br>
 <!-- - 👯 I’m looking to collaborate on  -->
 <!-- - 🤔 I’m looking for help with -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: robcastro100@gmail.com
+📫 How to reach me: robcastro100@gmail.com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
