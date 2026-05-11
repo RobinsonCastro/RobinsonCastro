@@ -1,4 +1,3 @@
-```md
 # Hi, I'm Robinson Castro 👋
 
 Full Stack Developer focused on building scalable web applications and digital products.
@@ -6,8 +5,8 @@ Full Stack Developer focused on building scalable web applications and digital p
 ## 🚀 About Me
 
 - 💻 Working with web development using Laravel ecosystem
-- ⚡ Experience with Livewire, Filament, Docker and modern PHP architecture
-- 📱 Also working with React Native applications
+- ⚡ Experience with Laravel, Livewire, Docker and modern PHP architecture
+- 📱 Also worked with React and React Native applications
 - 🛠 Passionate about clean code, DX and scalable systems
 
 ---
@@ -15,17 +14,20 @@ Full Stack Developer focused on building scalable web applications and digital p
 ## 🧰 Tech Stack
 
 ### Backend
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge)
 ![Filament](https://img.shields.io/badge/Filament-F59E0B?style=for-the-badge)
 
 ### Frontend
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
 
 ### DevOps & Database
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
@@ -42,14 +44,6 @@ Full Stack Developer focused on building scalable web applications and digital p
 
 ---
 
-## 📈 GitHub Stats
-
-![Robinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinsonCastro&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinsonCastro&layout=compact&theme=tokyonight)
-
----
-
 ## 🔥 Current Focus
 
 - Laravel + Livewire applications
@@ -58,4 +52,3 @@ Full Stack Developer focused on building scalable web applications and digital p
 - Docker infrastructure
 - Payment integrations
 - Queue & Realtime systems
-```
