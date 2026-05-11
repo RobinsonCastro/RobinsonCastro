@@ -37,9 +37,7 @@ Full Stack Developer focused on building scalable web applications and digital p
 ## 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/RobinsonCastro)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/robinson-castro-094b05a3/)
-
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robcastro100@gmail.com)
 
 ---
