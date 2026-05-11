@@ -7,7 +7,7 @@ Full Stack Developer focused on building scalable web applications and digital p
 - 💻 Working with web development using Laravel ecosystem
 - ⚡ Experience with Laravel, Livewire, Docker and modern PHP architecture
 - 📱 Also worked with React and React Native applications
-- 🛠 Passionate about clean code, DX and scalable systems
+- 🛠 Experience with ERP systems
 
 ---
 
