@@ -1,29 +1,61 @@
-# Robinson Castro :man_technologist:
+```md
+# Hi, I'm Robinson Castro 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/RobinsonCastro)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/robinson-castro-094b05a3/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:robcastro100@gmail.com)
+Full Stack Developer focused on building scalable web applications and digital products.
 
+## 🚀 About Me
 
-<!--
-**RobinsonCastro/RobinsonCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+- 💻 Working with web development using Laravel ecosystem
+- ⚡ Experience with Livewire, Filament, Docker and modern PHP architecture
+- 📱 Also working with React Native applications
+- 🛠 Passionate about clean code, DX and scalable systems
 
-I’m currently working on web and mobile development. </br>
-My current stack: JS (react, react native, node), PHP (laravel, livewire, filament). </br>
-<!-- - 👯 I’m looking to collaborate on  -->
-<!-- - 🤔 I’m looking for help with -->
-<!-- - 💬 Ask me about ... -->
-📫 How to reach me: robcastro100@gmail.com
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+---
 
-<p float="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"  width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>  
-</p>
+## 🧰 Tech Stack
 
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge)
+![Filament](https://img.shields.io/badge/Filament-F59E0B?style=for-the-badge)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+
+### DevOps & Database
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+---
+
+## 📫 Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/RobinsonCastro)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/robinson-castro-094b05a3/)
+
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robcastro100@gmail.com)
+
+---
+
+## 📈 GitHub Stats
+
+![Robinson's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinsonCastro&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinsonCastro&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Current Focus
+
+- Laravel + Livewire applications
+- SaaS platforms
+- Video education platforms
+- Docker infrastructure
+- Payment integrations
+- Queue & Realtime systems
+```
